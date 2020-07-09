@@ -1,0 +1,34 @@
+.nav-wrapper{
+    background-color: #004d40;
+}
+
+.slider .indicators .indicator-item.active{
+    background-color: #004d40;
+}
+
+.move{
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+
+.parallax-container{
+    min-height: 380px;
+    height: auto;
+}
+
+.icon-subject{
+    color: #004d40;
+}
+
+.footer-one{
+    background: #004d40;
+}
+
+.footer-two{
+    background: #00332b;
+}
+
+.fa{
+    color: #ffffff;
+    margin-right: 10px;
+}
